@@ -3,6 +3,6 @@ Script to help create and manage swarm cluster on docker-machine
 
 
 # Developers
- Charles O. Adetiloye
- Philip K. Adetiloye
+ * Charles O. Adetiloye
+ * Philip K. Adetiloye
  
