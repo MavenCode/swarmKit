@@ -7,12 +7,6 @@
 
 . ./nodes/swarm/swarm-master/swarm-master.sh  --source-only
 . ./nodes/swarm/swarm-nodes/swarm-nodes.sh  --source-only
-. ./apps/sample/deploy_test_apps.sh  --source-only
-. ./apps/kafka/deploy_kafka.sh  --source-only
-. ./apps/mysql/deploy_mysql.sh  --source-only
-. ./apps/haproxy/deploy_haproxy.sh  --source-only
-. ./apps/cassandra/deploy_cassandra.sh  --source-only
-
 . ./common/utils.sh  --source-only
 
 
